@@ -1,0 +1,11 @@
+=============== Jun 2, 2025 (KST) ===============
+18:28:46.279595 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+18:28:46.289918 db@open opening
+18:28:46.290274 version@stat F·[] S·0B[] Sc·[]
+18:28:46.298079 db@janitor F·2 G·0
+18:28:46.298108 db@open done T·8.16216ms
+18:30:39.511680 memdb@flush N·302 S·3MiB
+18:30:39.654729 memdb@flush created L0@3 N·302 S·2MiB "BH:..0b8,v184":"blo..ore,v6"
+18:30:39.654787 version@stat F·[1] S·2MiB[2MiB] Sc·[0.25]
+18:30:39.689288 memdb@flush committed F·1 T·177.555555ms
+18:30:39.690803 journal@remove removed @1
